@@ -20,7 +20,6 @@
 
 - Name: Ogunkile Oluwasayo
 - Student ID: 75801
-- Department: Computer Science
 
 --
 
