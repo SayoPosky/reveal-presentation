@@ -19,7 +19,7 @@
 ## About Me
 
 - Name: Ogunkile Oluwasayo
-- Student ID: 123456789
+- Student ID: 75801
 - Department: Computer Science
 
 --
@@ -91,11 +91,12 @@ This course covers key concepts in web information systems:
 ## Thank You 🙏
 
 - Visit the live presentation:  
-  [https://ogunkile.github.io/reveal-presentation](https://ogunkile.github.io/reveal-presentation)
+  [https://sayoposky.github.io/reveal-presentation](https://sayoposky.github.io/reveal-presentation)
 
 --
 
 ### Connect
 
-- GitHub: [Ogunkile Oluwasayo](https://github.com/ogunkile)
-- Email: ogunkile
+- GitHub: [Ogunkile Oluwasayo](https://github.com/SayoPosky)
+- Email: ogunkileoluwasayo@gmail.com  
+  """
