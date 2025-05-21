@@ -89,41 +89,42 @@ The following slides highlight the two major assignments completed during the co
 
 ## 📸 Screenshots from Assignment 1  
 
---  
+---  
 
 ### 🖥️ Homepage  
 ![Screenshot 1](img/screenshot/screenshot1.png)
 
---  
+---  
 
 ### 🧑‍🎓 About Page  
 ![Screenshot 2](img/screenshot/screenshot2.png)
 
---  
+---  
 
 ### 📚 Projects Page  
 ![Screenshot 3](img/screenshot/screenshot3.png)
 
---  
+---  
 
 ### 📝 Blog Page  
 ![Screenshot 4](img/screenshot/screenshot4.png)
 
---  
+---  
 
 ### 📞 Contact Page  
 ![Screenshot 5](img/screenshot/screenshot5.png)
 
 ---
 
-## 🙏 Thank You  
-
-Thank you for viewing my presentation.
-
---  
-
 ### 🔗 Links  
 - Website: [sayoposky.github.io/jekyll-assignment.github.io](https://sayoposky.github.io/jekyll-assignment.github.io)  
 - Presentation: [sayoposky.github.io/reveal-presentation](https://sayoposky.github.io/reveal-presentation)  
 - GitHub: [github.com/SayoPosky](https://github.com/SayoPosky)  
 - Email: **ogunkileoluwasayo@gmail.com**
+
+---  
+
+## 🙏 Thank You  
+
+Thank you for viewing my presentation.
+
