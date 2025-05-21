@@ -1,14 +1,19 @@
-# Assignment 2 – Reveal.js Presentation  
-## Ogunkile Oluwasayo (75801)
-### 54DPH Internet technologies DK-L-2024/25
+### Assignment 2  
+# Reveal.js Presentation  
+## Ogunkile Oluwasayo (75801)  
+### 54DPH Internet Technologies DK-L-2024/25  
 
 ---
 
 ## Slide Overview  
 
 - 👤 About Me  
+- 💡 Interests  
 - 🎯 Course Summary  
+- 🔧 Skills Acquired  
 - 💼 Project Highlights  
+- 📘 Assignment 1  
+- 🎤 Assignment 2  
 - 📸 Screenshots  
 - 🙏 Thank You  
 
@@ -17,11 +22,13 @@
 ## 👤 About Me  
 
 - Name: **Ogunkile Oluwasayo**  
-- Student ID: **75801** 
+- Student ID: **75801**  
 - Email: **ogunkileoluwasayo@gmail.com**  
 
---  
-### 💡 Interests  
+---
+
+## 💡 Interests  
+
 - Web Development  
 - Frontend Frameworks (React, Bootstrap)  
 - Software Design  
@@ -40,9 +47,9 @@ Key topics covered:
 - React & Node.js Integration  
 - GitHub Pages Deployment  
 
----  
+---
 
-### 💡 Skills Acquired  
+## 🔧 Skills Acquired  
 
 - Building Static Sites with Jekyll  
 - Hosting Projects with GitHub Pages  
@@ -53,38 +60,70 @@ Key topics covered:
 
 ## 💼 Project Highlights  
 
+The following slides highlight the two major assignments completed during the course:
+
+- 📘 Assignment 1: Jekyll Static Website  
+- 🎤 Assignment 2: Reveal.js Presentation  
+
+---
+
+## 📘 Assignment 1 – Jekyll Website  
+
+- Created a **5-page static site** using **Markdown and Jekyll**  
+- Hosted live on GitHub Pages  
+- Pages include: Home, About, Blog, Projects, Contact  
+- Implemented internal linking between pages  
+- [🔗 View Website](https://sayoposky.github.io/jekyll-assignment.github.io/)
+
+---
+
+## 🎤 Assignment 2 – Reveal.js Presentation  
+
+- Presentation written using **Markdown**  
+- Styled using the **Solarized theme**  
+- Demonstrates both **horizontal and vertical navigation**  
+- Hosted on GitHub Pages  
+- [🔗 View Slides](https://sayoposky.github.io/reveal-presentation)
+
+---
+
+## 📸 Screenshots from Assignment 1  
+
 --  
 
-### 📘 Assignment 1 – Jekyll Website  
-
-- Created a 5-page Markdown-based website  
-- Hosted on GitHub Pages  
-- Pages: Home, About, Blog, Projects, Contact  
-- Navigation & linking between pages  
-- [View Site](https://sayoposky.github.io/jekyll-assignment.github.io/)
+### 🖥️ Homepage  
+![Screenshot 1](img/screenshot/screenshot1.png)
 
 --  
 
-### 🎤 Assignment 2 – Reveal.js Presentation  
+### 🧑‍🎓 About Page  
+![Screenshot 2](img/screenshot/screenshot2.png)
 
-- Built with **Markdown and Reveal.js**  
-- Used **Solarized theme**  
-- Slides organized horizontally & vertically  
-- Hosted on GitHub Pages  
-- [View Slides](https://sayoposky.github.io/reveal-presentation)
+--  
+
+### 📚 Projects Page  
+![Screenshot 3](img/screenshot/screenshot3.png)
+
+--  
+
+### 📝 Blog Page  
+![Screenshot 4](img/screenshot/screenshot4.png)
+
+--  
+
+### 📞 Contact Page  
+![Screenshot 5](img/screenshot/screenshot5.png)
 
 ---
 
 ## 🙏 Thank You  
 
-- I hope you enjoyed my presentation.  
-- Feel free to explore the links below!  
+Thank you for viewing my presentation.
 
---
+--  
 
 ### 🔗 Links  
 - Website: [sayoposky.github.io/jekyll-assignment.github.io](https://sayoposky.github.io/jekyll-assignment.github.io)  
 - Presentation: [sayoposky.github.io/reveal-presentation](https://sayoposky.github.io/reveal-presentation)  
 - GitHub: [github.com/SayoPosky](https://github.com/SayoPosky)  
 - Email: **ogunkileoluwasayo@gmail.com**
-
