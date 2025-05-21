@@ -92,25 +92,25 @@ The following slides highlight the two major assignments completed during the co
 
 ![Screenshot 1](img/screenshot/screenshot1.png)
 
----
+--
 
 ## 📸 Screenshot: About Page  
 
 ![Screenshot 2](img/screenshot/screenshot2.png)
 
----
+--
 
 ## 📸 Screenshot: Projects Page  
 
 ![Screenshot 3](img/screenshot/screenshot3.png)
 
----
+--
 
 ## 📸 Screenshot: Blog Page  
 
 ![Screenshot 4](img/screenshot/screenshot4.png)
 
----
+--
 
 ## 📸 Screenshot: Contact Page  
 
