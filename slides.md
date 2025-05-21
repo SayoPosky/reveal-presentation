@@ -41,7 +41,7 @@ Key topics covered:
 - React & Node.js Integration  
 - GitHub Pages Deployment  
 
---  
+---  
 
 ### 💡 Skills Acquired  
 
