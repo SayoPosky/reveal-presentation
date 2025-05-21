@@ -17,8 +17,7 @@
 ## 👤 About Me  
 
 - Name: **Ogunkile Oluwasayo**  
-- Student ID: **75801**  
-- Department: **Computer Science**  
+- Student ID: **75801** 
 - Email: **ogunkileoluwasayo@gmail.com**  
 
 --  
