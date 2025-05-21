@@ -1,101 +1,104 @@
-# Assignment 2 – Reveal.js Presentation
-
-## By Ogunkile Oluwasayo
-
-### Web Systems & Design
+# Assignment 2 – Reveal.js Presentation  
+## Ogunkile Oluwasayo  
+### Web Systems & Design (CS75801)
 
 ---
 
-## Slide Overview
+## Slide Overview  
 
-- About Me
-- Course Summary
-- Project Highlights
-- Screenshots
-- Thank You
-
----
-
-## About Me
-
-- Name: Ogunkile Oluwasayo
-- Student ID: 75801
-
---
-
-### Interests
-
-- Web Development
-- Systems Design
-- Frontend Frameworks
+- 👤 About Me  
+- 🎯 Course Summary  
+- 💼 Project Highlights  
+- 📸 Screenshots  
+- 🙏 Thank You  
 
 ---
 
-## Course Summary
+## 👤 About Me  
 
-This course covers key concepts in web information systems:
+- Name: **Ogunkile Oluwasayo**  
+- Student ID: **75801**  
+- Department: **Computer Science**  
+- Email: **ogunkileoluwasayo@gmail.com**  
 
-- Web Architecture
-- Layered System Design
-- React, Node.js Basics
-- GitHub & Hosting
-
---
-
-### Skills Learned
-
-- Jekyll
-- GitHub Pages
-- Reveal.js
-- React + Bootstrap
+--  
+### 💡 Interests  
+- Web Development  
+- Frontend Frameworks (React, Bootstrap)  
+- Software Design  
+- Git & GitHub Pages  
 
 ---
 
-## Project Highlights
+## 🎯 Course Summary  
 
---
+This course introduced the core concepts of **Web Information Systems** and their real-world applications.
 
-### 🏗️ Assignment 1
+Key topics covered:
 
-- Created 5-page Jekyll website
-- Used Markdown + GitHub Pages
-- Linked all pages: Home, About, Blog, Projects, Contact
+- Architecture of Web Systems  
+- Client-Server Communication  
+- React & Node.js Integration  
+- GitHub Pages Deployment  
 
---
+--  
 
-### 🎤 Assignment 2
+### 💡 Skills Acquired  
 
-- Built Reveal.js presentation
-- Used horizontal and vertical navigation
-- Uploaded to GitHub Pages
-
----
-
-## 📸 Screenshots
-
---
-
-### Website Screenshot
-
-![Site](https://via.placeholder.com/500x300?text=Jekyll+Website)
-
---
-
-### Presentation Screenshot
-
-![Presentation](https://via.placeholder.com/500x300?text=Reveal.js+Slides)
+- Building Static Sites with Jekyll  
+- Hosting Projects with GitHub Pages  
+- Creating Slide Decks using Reveal.js  
+- Using Markdown + Themes for design  
 
 ---
 
-## Thank You 🙏
+## 💼 Project Highlights  
 
-- Visit the live presentation:  
-  [https://sayoposky.github.io/reveal-presentation](https://sayoposky.github.io/reveal-presentation)
+--  
+
+### 📘 Assignment 1 – Jekyll Website  
+
+- Created a 5-page Markdown-based website  
+- Hosted on GitHub Pages  
+- Pages: Home, About, Blog, Projects, Contact  
+- Navigation & linking between pages  
+- [View Site](https://sayoposky.github.io/jekyll-assignment.github.io/)
+
+--  
+
+### 🎤 Assignment 2 – Reveal.js Presentation  
+
+- Built with **Markdown and Reveal.js**  
+- Used **Solarized theme**  
+- Slides organized horizontally & vertically  
+- Hosted on GitHub Pages  
+- [View Slides](https://sayoposky.github.io/reveal-presentation)
+
+---
+
+## 📸 Screenshots  
+
+--  
+
+### 🖥️ Website Screenshot  
+![Website](https://via.placeholder.com/500x300?text=Jekyll+Site+Preview)
+
+--  
+
+### 🧾 Presentation Screenshot  
+![Presentation](https://via.placeholder.com/500x300?text=Reveal.js+Slides+Preview)
+
+---
+
+## 🙏 Thank You  
+
+- I hope you enjoyed my presentation.  
+- Feel free to explore the links below!  
 
 --
 
-### Connect
-
-- GitHub: [Ogunkile Oluwasayo](https://github.com/SayoPosky)
-- Email: ogunkileoluwasayo@gmail.com  
-  """
+### 🔗 Links  
+- Website: [sayoposky.github.io/jekyll-assignment.github.io](https://sayoposky.github.io/jekyll-assignment.github.io)  
+- Presentation: [sayoposky.github.io/reveal-presentation](https://sayoposky.github.io/reveal-presentation)  
+- GitHub: [github.com/SayoPosky](https://github.com/SayoPosky)  
+- Email: **ogunkileoluwasayo@gmail.com**
