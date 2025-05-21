@@ -1,6 +1,6 @@
 ### Assignment 2  
-# Reveal.js Presentation  
-## Ogunkile Oluwasayo (75801)  
+## Reveal.js Presentation  
+### Ogunkile Oluwasayo (75801)  
 ### 54DPH Internet Technologies DK-L-2024/25  
 
 ---
