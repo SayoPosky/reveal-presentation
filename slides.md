@@ -1,6 +1,6 @@
 # Assignment 2 – Reveal.js Presentation  
-## Ogunkile Oluwasayo  
-### Web Systems & Design (CS75801)
+## Ogunkile Oluwasayo (75801)
+### 54DPH Internet technologies DK-L-2024/25
 
 ---
 
@@ -102,3 +102,4 @@ Key topics covered:
 - Presentation: [sayoposky.github.io/reveal-presentation](https://sayoposky.github.io/reveal-presentation)  
 - GitHub: [github.com/SayoPosky](https://github.com/SayoPosky)  
 - Email: **ogunkileoluwasayo@gmail.com**
+
