@@ -76,20 +76,6 @@ Key topics covered:
 
 ---
 
-## 📸 Screenshots  
-
---  
-
-### 🖥️ Website Screenshot  
-![Website](https://via.placeholder.com/500x300?text=Jekyll+Site+Preview)
-
---  
-
-### 🧾 Presentation Screenshot  
-![Presentation](https://via.placeholder.com/500x300?text=Reveal.js+Slides+Preview)
-
----
-
 ## 🙏 Thank You  
 
 - I hope you enjoyed my presentation.  
